@@ -1,4 +1,7 @@
 # Compiler-Design
+I'm not sure why the README does not want to work properly in the display, look at it through the code preview to understand it
+If anyone can fix it, I would really appreciate it.
+
 This Project was the final project for my Compiler Design Class, and contains code that would check to make sure any inserted string follows the given requirements
 For the Code.
 The first section of the code, the functions in particular.
