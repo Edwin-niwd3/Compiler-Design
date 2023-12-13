@@ -27,7 +27,7 @@ Original Program, in “finalv1.txt”
                   c           =  5    ;
             write ( c );  (* display c *)
 
-                 (* compute the value of the expression *)
+(* compute the value of the expression *)
                  ba = a1 * ( b2a + 2 * c)          ;
                  write ( “value=”,          ba   ) ;  (* print the value of ba*)
            end.
