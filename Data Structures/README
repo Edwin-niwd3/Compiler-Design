@@ -1,0 +1,14 @@
+#Binary Search Tree
+Run as is, there is nothing you need to do
+
+#Linked Lists
+You may have to create a file named "File.txt", but it should already be included to run.
+
+If not here is the template file:
+ID       Name         Balance
+110      Sean           110.10    
+100      Barron       100.20   
+170      Bill              170.30  
+150       George      150.40  
+190       Zack           190.50      
+120       Adam        120.60  
