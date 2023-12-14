@@ -1,6 +1,4 @@
 # Compiler-Design
-I'm not sure why the README does not want to work properly in the display, look at it through the code preview to understand it
-If anyone can fix it, I would really appreciate it.
 
 This Project was the final project for my Compiler Design Class, and contains code that would check to make sure any inserted string follows the given requirements
 For the Code.
@@ -11,7 +9,7 @@ removeComments removes any comments that are found in the file, comments were de
 KillSpaces removes extra spaces that were created by the removal of the comments
 Fix Files uses all the previous functions in conjunction to organize the file
 
-6 reserved words remain constant in the entier program, namely "program", "var", "begin", "end.", "integer", "write".
+6 reserved words remain constant in the entire program, namely "program", "var", "begin", "end.", "integer", "write".
 
 The rest of the functions work together to check the string and to ensure that the program given by the file works properly.
 
@@ -54,7 +52,7 @@ We were also given the original Grammer
 <digit>           --> 0|1|2|…|9
 <letter>          --> a|b|c|d|w|f
 
-Using this grammer, we removed the EBNF's to get this:
+Using this grammar, we removed the EBNF's to get this:
 <prog>            -->  program   <identifier>; var  <dec-list>  begin  <stat-list> end.
 <identifier>     	--> <letter><identifier-redo>
 <identifier-redo>	--> <letter><identifier-redo>
